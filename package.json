@@ -12,5 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint-config-upleveled": "^4.1.8",
+    "typescript": "^5.0.4"
   }
 }
